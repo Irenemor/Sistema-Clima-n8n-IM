@@ -1,5 +1,7 @@
 # Sistema-n8n-Clima-IM
 
+Fecha de actualización:04/11/2026
+
 Sistema-n8n-Clima-IM:
 <img width="496" height="175" alt="image" src="https://github.com/user-attachments/assets/62db56dd-fc51-44cc-8a06-5dc9fcc399d3" />
 
